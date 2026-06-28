@@ -42,13 +42,8 @@ Aplikacja edukacyjna dla nauczycieli do egzaminowania uczniów z matematyki.
 - **Technologie:** JavaScript, HTML5, CSS3
 - **Status:** Aktywnie rozwijane
 
-### 🏡 [Domki Jacuzzi](https://github.com/webcodesite-studio/domki_jacuzzi)
-Nowoczesna strona internetowa z pełną responsywnością i zaawansowanym stylowaniem.
-- **Technologie:** CSS3, HTML5, RWD
-- **Status:** W produkcji
-
 ### ✅ [Gold Check](https://github.com/webcodesite-studio/gold_check)
-Zaawansowany system weryfikacji i kontroli jakości.
+Zaawansowany system weryfikacji i kontroli jakości oraz monitorowania ceny złota.
 - **Technologie:** JavaScript, HTML5, CSS3
 - **Status:** Projektowanie i rozwój
 
