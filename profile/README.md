@@ -15,7 +15,7 @@
 - **Vanilla JavaScript** - Programowanie logiki i interakcji w czystym JavaScript bez dodatkowych bibliotek
 - **Nowoczesne Animacje** - Implementacja płynnych przejść i animacji CSS/JS
 
-### �� Optymalizacja i Wydajność
+### ⚡ Optymalizacja i Wydajność
 
 - **Core Web Vitals** - Optymalizacja szybkości ładowania i wydajności strony
 - **SEO On-Page** - Przygotowanie kodu i struktury pod optymalizację dla wyszukiwarek
@@ -42,10 +42,11 @@ Aplikacja edukacyjna dla nauczycieli do egzaminowania uczniów z matematyki.
 - **Technologie:** JavaScript, HTML5, CSS3
 - **Status:** Aktywnie rozwijane
 
-### ✅ [Gold Check](https://github.com/webcodesite-studio/gold_check)
-Zaawansowany system weryfikacji i kontroli jakości oraz monitorowania ceny złota.
-- **Technologie:** JavaScript, HTML5, CSS3
-- **Status:** Projektowanie i rozwój
+### ♟️ [Chess Layout](https://github.com/webcodesite-studio/chess_layout)
+Aplikacja do zarządzania turniejem szachowym — dla szkół i organizacji edukacyjnych. Umożliwia dodawanie uczestników, generowanie par, wpisywanie wyników oraz zarządzanie kontami nauczycieli.
+- **Technologie:** React, FastAPI, PostgreSQL, Python, Node.js
+- **Status:** Aktywnie rozwijane
+- **Licencja:** Użytek edukacyjny — XII LO im. H. Sienkiewicza w Warszawie
 
 ---
 
@@ -55,12 +56,15 @@ Zaawansowany system weryfikacji i kontroli jakości oraz monitorowania ceny zło
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flexbox](https://img.shields.io/badge/Flexbox-FFA500?style=flat-square&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-FFA500?style=flat-square&logoColor=white)
 
 ### CMS & Backend
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Narzędzia & Usługi
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
